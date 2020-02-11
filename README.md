@@ -18,9 +18,9 @@
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `https://github.com/Dchilds456/Flixster-2/blob/master/Flixster%202%20walkthrough.gif?raw=true`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/Dchilds456/Flixster-2/blob/master/Flixster%202%20walkthrough.gif?raw=true" width=250><br>
 
 ### Notes
 
